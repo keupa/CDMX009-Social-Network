@@ -15,7 +15,7 @@ export default () => {
     <div id= 'gridPost'>
       <div class = 'p1'>   
         <div><p>Bichigram</p></div>
-        <div><button class="btn" id="logoutBtn2"> <img class="icon" src='/imgBichigram/logout.png'> </button></div>
+        <div><button class="btn" id="logoutBtn2"> <img class="icon" src='./imgBichigram/logout.png'> </button></div>
       </div>
       <div class= 'p2'>
           <form class = "inputForm">
@@ -33,13 +33,13 @@ export default () => {
         <nav>
           <ul>
               <li class="home">
-                  <a  href="#/home"><img src='/imgBichigram/btnHome.png'></a>
+                  <a  href="#/home"><img src='./imgBichigram/btnHome.png'></a>
               </li>
               <li class ="newpost">
-                  <a  href="#/newpost"> <img src='/imgBichigram/btnShare.png'> </a>
+                  <a  href="#/newpost"> <img src='./imgBichigram/btnShare.png'> </a>
               </li>
               <li class='profile' >
-                  <a href="#/profile"> <img src='/imgBichigram/btnProf.png'> </a>
+                  <a href="#/profile"> <img src='./imgBichigram/btnProf.png'> </a>
               </li>
         </ul>
         </nav>

@@ -24,8 +24,8 @@ export default () => {
         <div class = "n3">
           <p> Regístrate con: </p>
           <div class = "fbYG">
-              <button class = "fb"> <img class="icon" src='/imgBichigram/fb.png'> </button>
-              <button class = "google"> <img class="icon" src='/imgBichigram/google.png'> </button>
+              <button class = "fb"> <img class="icon" src='./imgBichigram/fb.png'> </button>
+              <button class = "google"> <img class="icon" src='./imgBichigram/google.png'> </button>
           </div>
         </div>
     </div>
