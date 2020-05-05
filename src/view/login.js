@@ -5,7 +5,7 @@ export default () => {
     <div id="background2">  
       <div id='gridLogin'>   
           <div class='l1'>
-            <div><img class="bichiImg" src='/imgBichigram/bichiLogin.png'> </img></div>
+            <div><img class="bichiImg" src='./imgBichigram/bichiLogin.png'> </img></div>
             <p >Bichigram</p>
           </div>
           <div class='l2'>
@@ -16,8 +16,8 @@ export default () => {
               <button class='btn' id='loginBtn'> Log In </button>
             </form>
             <div class = "fbYG">
-                <button class = "fb"> <img class="icon" src='/imgBichigram/fb.png'> </button>
-                <button class = "google"> <img class="icon" src='/imgBichigram/google.png'> </button>
+                <button class = "fb"> <img class="icon" src='./imgBichigram/fb.png'> </button>
+                <button class = "google"> <img class="icon" src='./imgBichigram/google.png'> </button>
             </div>
           </div> 
           <div class='l3'>
